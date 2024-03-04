@@ -1,5 +1,7 @@
 void setup() {
+  // Bella Lardin
   // put your setup code here, to run once:
+  //Puhang Cai
   pinMode(5, OUTPUT);
   pinMode(6, OUTPUT);
   pinMode(7, OUTPUT);
